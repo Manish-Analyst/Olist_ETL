@@ -1,0 +1,5 @@
+2025-07-17 13:35:40,532 INFO:Loaded table: dim_customers
+2025-07-17 13:35:40,623 INFO:Loaded table: dim_sellers
+2025-07-17 13:35:42,154 INFO:Loaded table: dim_products
+2025-07-17 13:35:42,200 INFO:Loaded table: dim_date
+2025-07-17 13:35:51,845 INFO:Loaded table: fact_orders
